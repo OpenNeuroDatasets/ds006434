@@ -1,0 +1,16 @@
+{
+	"Name": "dummy",
+	"License": "BSD 3-clause",
+	"Authors": [
+		"Doe, JJ"
+	],
+	"HowToAcknowledge": "This is a dummy dataset",
+	"Funding": [
+		"NA"
+	],
+	"ReferencesAndLinks": [
+		"NA"
+	],
+	"DatasetDOI": "NA",
+	"BIDSVersion": "1.1.1"
+}
