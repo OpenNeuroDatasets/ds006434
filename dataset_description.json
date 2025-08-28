@@ -1,24 +1,28 @@
 {
-    "Name": "The auditory brainstem response to natural speech is not affected by selective attention",
-    "License": "CC0",
+    "Name": "exp1Diotic",
+    "BIDSVersion": "1.7.0",
+    "DatasetType": "raw",
+    "License": "Creative Commons CC0",
     "Authors": [
-        "Stoll TJ",
-        "Vandjelovic ND",
-        "Polonenko MJ",
-        "Li NRS",
-        "Lee AKC",
-        "Maddox RK"
+        "Thomas J Stoll",
+        "Nathan D Vandjelovic",
+        "Melissa J Polonenko",
+        "Nadja R S Li",
+        "Adrian K C Lee",
+        "Ross K Maddox"
     ],
-    "HowToAcknowledge": "This is a dummy dataset",
+    "Acknowledgements": "We thank Yathida Melody Anankul, Ashlynne G Xavier, Tiffany Waddington, and Susan A McLaughlin for assistance with data collection. We are grateful to Tobias Reichenbach and colleagues for freely sharing experimental data and stimuli, and to Skyler G Jennings for teaching us how to make and use the eardrum electrodes. ",
+    "HowToAcknowledge": "If you reference this dataset in a publication, please cite the paper Stoll et. al, The when and where of auditory selective attention. PLOS Bio, 2025.",
     "Funding": [
-        "NIH R00DC014288",
-        "NIH R01DC013260",
+        "NIH R00 DC014288",
+        "NIH R21 DC019489",
+        "NIH R01 DC013260 ",
         "NSF 2142612",
-        "NSF 2448814"
+		"NSF 2448814"
     ],
-    "ReferencesAndLinks": [
-        "NA"
+    "EthicsApprovals": [
+        "University of Rochester Research Subjects Review Board #1227",
+        "University of Washington Institutional Review Board"
     ],
-    "DatasetDOI": "NA",
-    "BIDSVersion": "1.1.1"
+    "DatasetDOI": "doi:tbd"
 }
