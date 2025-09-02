@@ -1,0 +1,21 @@
+{
+    "TaskName": "exp3Passive",
+    "Manufacturer": "Brain Products",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 25000.0,
+    "SoftwareFilters": "n/a",
+    "RecordingDuration": 5501.53996,
+    "RecordingType": "continuous",
+    "EEGReference": "earlobes",
+    "EEGGround": "placed on Fpz",
+    "EEGPlacementScheme": "based on the extended 10/20 system",
+    "EEGChannelCount": 2,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 0,
+    "TaskDescription": "In each trial, subjects were presented with two audiobooks simultaneously, one read by a male narrator and one read by a female narrator. Subjectswere instructed to ignore the stories and distract themselves by either watching silent, captioned videos or reading.",
+    "ManufacturersModelName": "actiChamp Plus with EP preamps",
+    "SoftwareVersions": "BrainVision Recorder V1.25.0201"
+}
