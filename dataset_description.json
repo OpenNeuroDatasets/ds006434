@@ -2,7 +2,7 @@
     "Name": "exp1Diotic",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
-    "License": "Creative Commons CC0",
+    "License": "CC0",
     "Authors": [
         "Thomas J Stoll",
         "Nathan D Vandjelovic",
@@ -12,13 +12,13 @@
         "Ross K Maddox"
     ],
     "Acknowledgements": "We thank Yathida Melody Anankul, Ashlynne G Xavier, Tiffany Waddington, and Susan A McLaughlin for assistance with data collection. We are grateful to Tobias Reichenbach and colleagues for freely sharing experimental data and stimuli, and to Skyler G Jennings for teaching us how to make and use the eardrum electrodes. ",
-    "HowToAcknowledge": "If you reference this dataset in a publication, please cite the paper Stoll et. al, The auditory brainstem response to speech is not affected by selective attention. PLOS Bio, 2025.",
+    "HowToAcknowledge": "If you reference this dataset in a publication, please cite the paper (Stoll et. al, The auditory brainstem response to speech is not affected by selective attention. PLOS Biology, 2025).",
     "Funding": [
         "NIH R00 DC014288",
         "NIH R21 DC019489",
         "NIH R01 DC013260 ",
         "NSF 2142612",
-		"NSF 2448814"
+        "NSF 2448814"
     ],
     "EthicsApprovals": [
         "University of Rochester Research Subjects Review Board #1227",
