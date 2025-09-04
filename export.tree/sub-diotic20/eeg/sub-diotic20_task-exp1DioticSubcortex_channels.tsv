@@ -1,3 +1,0 @@
-﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
-A1	EEG	µV	0.0	5000.0	ElectroEncephaloGram	10000.0	good	n/a
-A2	EEG	µV	0.0	5000.0	ElectroEncephaloGram	10000.0	good	n/a
