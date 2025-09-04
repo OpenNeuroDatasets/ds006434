@@ -1,28 +1,28 @@
 participant_id	age	sex
-sub-dichotic02		
-sub-dichotic03		
-sub-dichotic04		
-sub-dichotic05		
-sub-dichotic06		
-sub-dichotic07		
-sub-dichotic08		
-sub-dichotic09		
-sub-dichotic10		
-sub-dichotic11		
-sub-dichotic12		
-sub-dichotic13		
-sub-dichotic14		
-sub-dichotic15		
-sub-dichotic16		
-sub-dichotic17		
-sub-dichotic18		
-sub-dichotic19		
-sub-dichotic20		
-sub-dichotic21		
-sub-dichotic22		
-sub-dichotic23		
-sub-dichotic24		
-sub-dichotic25		
+sub-dichotic02	0	M
+sub-dichotic03	0	M
+sub-dichotic04	0	M
+sub-dichotic05	0	M
+sub-dichotic06	0	M
+sub-dichotic07	0	M
+sub-dichotic08	0	M
+sub-dichotic09	0	M
+sub-dichotic10	0	M
+sub-dichotic11	0	M
+sub-dichotic12	0	M
+sub-dichotic13	0	M
+sub-dichotic14	0	M
+sub-dichotic15	0	M
+sub-dichotic16	0	M
+sub-dichotic17	0	M
+sub-dichotic18	0	M
+sub-dichotic19	0	M
+sub-dichotic20	0	M
+sub-dichotic21	0	M
+sub-dichotic22	0	M
+sub-dichotic23	0	M
+sub-dichotic24	0	M
+sub-dichotic25	0	M
 sub-diotic01	21	F
 sub-diotic02	20	F
 sub-diotic03	24	F
@@ -56,7 +56,7 @@ sub-passive18	23	F
 sub-passive19	39	M
 sub-passive20	18	F
 sub-passive21	18	F
-sub-passive22	23	
+sub-passive22	23	M
 sub-passive24	19	F
 sub-passive25	20	M
 sub-passive26	22	F

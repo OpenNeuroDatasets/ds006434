@@ -1,8 +1,8 @@
 {
-    "Name": "The auditory brainstem response to speech is not affected by selective attention",
+    "Name": "exp1Diotic",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
-    "License": "CC0",
+    "License": "Creative Commons CC0",
     "Authors": [
         "Thomas J Stoll",
         "Nathan D Vandjelovic",
@@ -18,7 +18,7 @@
         "NIH R21 DC019489",
         "NIH R01 DC013260 ",
         "NSF 2142612",
-        "NSF 2448814"
+		"NSF 2448814"
     ],
     "EthicsApprovals": [
         "University of Rochester Research Subjects Review Board #1227",
