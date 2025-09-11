@@ -1,0 +1,19 @@
+{
+    "onset": {
+        "Description": "Onset (in seconds) of the event from the beginning of the first datapoint. Negative onsets account for events before the first stored data point.",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the event in seconds from onset. Must be zero, positive, or 'n/a' if unavailable. A zero value indicates an impulse event. ",
+        "Units": "s"
+    },
+    "sample": {
+        "Description": "The event onset time in number of sampling points.First sample is 0."
+    },
+    "value": "Encodes the attended story and chapter. The first digit corresponds to the story (1=Female, 2=Male) and the last two digits correspond to the chapter.",
+    "trial_type": {
+        "Description": "The type, category, or name of the event."
+    },
+    "attend": "The narrator the subject was instructed to attend on that trial.",
+    "chapter": "The chapter of both stories played on each trial. Note that the same chapter was played from each story."
+}
